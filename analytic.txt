@@ -17,3 +17,5 @@ Implementing analytics in your social media application can provide valuable ins
     Predictive Analytics: Use machine learning algorithms to predict future trends in user behavior and engagement. This can help users make informed decisions about their content strategy and identify opportunities for growth.
 
     A/B Testing: Implement A/B testing to experiment with different content formats, posting times, and strategies. Analyze the results to determine which approach yields the best results and optimize accordingly.
+
+prerequisites python only
